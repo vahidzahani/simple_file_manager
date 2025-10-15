@@ -291,12 +291,7 @@ function render_page()
 
     <body>
 
-
-
-
-
-        <?php
-        ?>
+        <strong>simple file manager server create by : vahid.zahani@gmail.com</strong>
 
         <div class="container">
             <div class="card">
