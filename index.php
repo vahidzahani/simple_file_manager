@@ -290,6 +290,14 @@ function render_page()
     </head>
 
     <body>
+
+
+
+
+
+        <?php
+        ?>
+
         <div class="container">
             <div class="card">
                 <div class="header">
